@@ -244,7 +244,7 @@
 
    - 发射过程
    - 
-     ![Launch](https://user-images.githubusercontent.com/105597219/168938571-61179adb-4b33-4d0f-ae43-6914f7250b81.png
+     ![Launch](https://user-images.githubusercontent.com/105597219/168938715-beaaac80-a49b-4988-be97-5e837e5c9e00.png)
 
    - 飞跃Kerbin!
 
