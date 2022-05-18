@@ -243,20 +243,20 @@
 6. **风灵号轨道器**(一艘我在KSP中造的有趣的飞船，可以通过大气制动节省燃料)
 
    - 发射过程
+   - 
+     ![Launch](https://user-images.githubusercontent.com/105597219/168938571-61179adb-4b33-4d0f-ae43-6914f7250b81.png
 
-     ![Launch](C:\Users\Admin\Desktop\ProjectPOS\Launch.png)
+   - 飞跃Kerbin!
 
-   - 飞跃Kerbin
-
-     ![KerbinFlyby](C:\Users\Admin\Desktop\ProjectPOS\KerbinFlyby.png)
+     ![KerbinFlyby](https://user-images.githubusercontent.com/105597219/168938607-e05444d6-56ef-411b-8b29-c5c186d1ff88.png)
 
    - 大气制动
 
-     ![Aerobraking](C:\Users\Admin\Desktop\ProjectPOS\Aerobraking.png)
+     ![Aerobraking](https://user-images.githubusercontent.com/105597219/168938634-a3b8e193-3e6e-4f0d-b7e3-3e7f42bac125.png)
 
    - 携带Aeris4A核动力改进型太空飞机
 
-     ![WAeris4A](C:\Users\Admin\Desktop\ProjectPOS\WAeris4A.png)
+     ![WAeris4A](https://user-images.githubusercontent.com/105597219/168938662-bea5cbe1-6ced-4c99-b483-52dda6d84be8.png)
 
 7. **土星滑翔机**(一种假想的可以稳定在气态行星低层大气低速巡航的太空飞机，可以帮助拍摄土星夜间极其壮观的图片)
 
