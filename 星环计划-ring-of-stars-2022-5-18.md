@@ -246,7 +246,7 @@
    - 
      ![Launch](https://user-images.githubusercontent.com/105597219/168938715-beaaac80-a49b-4988-be97-5e837e5c9e00.png)
 
-   - 飞跃Kerbin!
+   - 飞跃Kerbin
 
      ![KerbinFlyby](https://user-images.githubusercontent.com/105597219/168938607-e05444d6-56ef-411b-8b29-c5c186d1ff88.png)
 
