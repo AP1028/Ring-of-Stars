@@ -243,7 +243,7 @@
 6. **风灵号轨道器**(一艘我在KSP中造的有趣的飞船，可以通过大气制动节省燃料)
 
    - 发射过程
-   - 
+
      ![Launch](https://user-images.githubusercontent.com/105597219/168938715-beaaac80-a49b-4988-be97-5e837e5c9e00.png)
 
    - 飞跃Kerbin
