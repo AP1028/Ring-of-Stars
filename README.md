@@ -10,6 +10,8 @@
 
 如果你没有GitHub账号，请直接向tian_yi_xia@qq.com发送信息。
 
+一个对本项目极其重要的网站：[**Atomic Rockets**](http://www.projectrho.com/public_html/rocket/)，一个由Winchell Chung创立的主要关于火箭科学的网站，包含极其多的火箭推进器和飞船技术细节。据作者称，这个网站的目的在于帮助科幻小说作家和游戏设计师创作[有科学真实性的科幻作品](https://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfScienceFictionHardness)(即硬科幻)。
+
 ## 1. 质能转化方式
 
 这里记录了一些从各个地方搜集的质能转化方式。随着文明的发展，利用物质产生能量的效率将会不断提升。
@@ -30,70 +32,74 @@
 6. <span id="彭罗斯过程">**彭罗斯过程**</span>(英国物理学家罗杰·彭罗斯所发现的旋转黑洞能量特性，*ε<29%*)([百度百科](https://baike.baidu.com/item/%E5%BD%AD%E7%BD%97%E6%96%AF%E8%BF%87%E7%A8%8B/15613480?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Penrose_process)\|[视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=37&share_source=copy_web))
 7. <span id="黑洞引力势能">**黑洞引力势能**</span>(通过物质在黑洞引力场中落入黑洞的过程汲取引力势能，*ε<42%*)([视频解释](https://www.bilibili.com/video/BV1Qs411L7Qk?share_source=copy_web))
 8. <span id="霍金辐射能量引擎">**霍金辐射能量引擎**</span>(*ε<90%*)
-9. <span id="正反物质湮灭">**正反物质湮灭**</span>(*ε<100%*)
+9. <span id="正反物质湮灭">**正反物质湮灭**</span>(一种极其高效的储能方式。注意：反物质[不是能源](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#notpower)，因为自然界不存在反物质矿藏；正反物质湮灭[并不能保证100%质能转化效率](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#id--Antimatter_Reaction)，*ε<100%*)
 10. <span id="理想质能转化引擎">**理想质能转化引擎**</span>(一个假想的贴近理论极限的质能转化方式，*ε=100%*)
 
 ## 2. 航空/宇航推进
 
 这里记录了一些从各个地方搜集和我创造的推进器概念。为了使航天器能拥有足够的效率和适当的推力，需要多样的推进器满足特定的需求。
 
-我并不喜欢那些“曲速引擎”“虫洞”或是“EmDrive”之类的东西。这些东西要么[在逻辑上等同于时间机器](#相对论-超光速因果联系-时间旅行矛盾)，要么干脆直接违反了动量守恒。如果你想看[魔法](http://www.projectrho.com/public_html/rocket/prelimnotes.php#handwavium)，那么抱歉，你来错地方了。
+我并不喜欢那些“曲速引擎”“虫洞”或是“EmDrive”之类的东西。这些东西要么[在逻辑上等同于时间机器](#relativityLimit)，要么干脆直接违反了动量守恒。如果你想看[魔法](http://www.projectrho.com/public_html/rocket/prelimnotes.php#handwavium)，那么抱歉，你来错地方了。
 
 以下各条目的“*I<sub>sp</sub>*”代表比冲(Specific Impulse)，是推进器效率的量度，在大小上等于推进器喷出气体的速度除以重力加速度(即I<sub>sp</sub>=v<sub>e</sub>/g)。比冲越高，推进器的燃料利用效率越高。然而在推进器输出功率相同下，比冲越高，推力越小。这可以用来解释为什么离子推进器较化学火箭效率极高，推力却小得离谱。
 
 由于I<sub>sp</sub>不可能大于c/g，这告诉了我们一件事：在不使用[巴萨德冲压发动机](#巴萨德冲压发动机)的情况下，为了将飞船加速到0.9c再减速至零，出发前飞船中燃料占飞船总质量不可能小于95%。这个极限无法通过推进器的科技进步所打破。(很残酷，不是吗？)
 
+如果你想直观地体验火箭和飞船飞行的运作方式、了解航天器变轨操作和火箭设计的内在逻辑，你可以尝试一个极其优秀且富有教育意义的半拟真航空航天模拟游戏：*《坎巴拉太空计划》*
+
+<span id="ksp">**坎巴拉太空计划(KSP)**</span>：一个披着沙雕外衣、拥有极高自由度的沙盒风格航空航天模拟游戏。它不仅极其有趣，还富有教育意义，可以轻易*教会玩家如何设计火箭、飞船、太空任务以及直观的变轨逻辑，并让玩家无需他人解释就可以亲身体会一些概念的合理性(比如<u>大角度变轨改变轨道平面会消耗极多燃料</u>；<u>轨道空间站燃料存储的必要性</u>)。它甚至收到了[Atomic Rockets](http://www.projectrho.com/public_html/rocket/)网站的[”Seal of Approval“](http://www.projectrho.com/public_html/rocket/sealofapproval.php)，在此网站作者Winchell Chung提到”这个游戏对那些希望自己的宇航学表述精确的科幻作家有极大的作用“。([百度百科](https://baike.baidu.com/item/%E5%9D%8E%E5%B7%B4%E6%8B%89%E5%A4%AA%E7%A9%BA%E8%AE%A1%E5%88%92/7596160?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/sealofapproval.php#ksp)\|[Wikipedia](https://en.wikipedia.org/wiki/Kerbal_Space_Program)\|[官网](https://www.kerbalspaceprogram.com/)\|[KSPwiki](https://wiki.kerbalspaceprogram.com/wiki/Main_Page)\|[Steam页面](https://store.steampowered.com/app/220200/Kerbal_Space_Program/))
+
 1. <span id="化学火箭">**化学火箭**</span>(低比冲大推力的化学动力火箭，适用于飞船进入轨道的发射阶段，*500s<I<sub>sp</sub><700s*)
-2. <span id="核能航空发动机">**核能航空发动机**</span>(利用裂变反应堆加热空气使之膨胀产生推力)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E8%83%BD%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA/22108579?fr=aladdin))
-3. <span id="NTR">**核热火箭(NTR)**</span>(利用裂变反应堆加热工质使之膨胀产生推力)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/engineintro.php)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
+2. <span id="离子推进器">**离子推进器**</span>(低推力高比冲推进器，包括胶质发动机、霍尔效应推进器和VASIMR等推进器，*1000s<I<sub>sp</sub><30000s*)([百度百科](https://baike.baidu.com/item/%E7%A6%BB%E5%AD%90%E6%8E%A8%E8%BF%9B%E5%99%A8/4751870?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Ion_thruster))
+3. <span id="SABRE">**协同吸气式火箭发动机(SABRE)**</span>(一种可以在大气中获取氧气作为氧化剂的火箭发动机，可以减少太空飞机携带的氧化剂，从而使其实现单级入轨)([百度百科](https://baike.baidu.com/item/佩刀吸气式火箭发动机/15639055?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/SABRE_(rocket_engine))\|[Reaction Engines 官网](https://www.reactionengines.co.uk/sabre))
+4. <span id="超导电磁流体推进器">**超导电磁流体推进器**</span>(在导电流体中通过安培力作用产生推力)
+5. <span id="蒸汽-流体混合推进器">**蒸汽-流体混合推进器**</span>(类似喷气发动机，通过加热流体至沸腾，产生大量气体，对外膨胀产生推力)
+6. **非常规高效化学推进器**(临界态金属氢/自由基结合/亚稳态原子推进器，*1700s<I<sub>sp</sub><4300s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#atomichydrogen))
+7. <span id="核能航空发动机">**核能航空发动机**</span>(利用裂变反应堆加热空气使之膨胀产生推力)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E8%83%BD%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA/22108579?fr=aladdin))
+8. <span id="NTR">**核热火箭(NTR)**</span>(利用裂变反应堆加热工质使之膨胀产生推力)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/engineintro.php)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
    1. **固态核心**(裂变物质维持固态，效率大概为化学火箭的2-4倍，NERVA，*800s(H<sub>2</sub>)<I<sub>sp</sub><1600s(H<sub>1</sub>)*)([百度百科](https://baike.baidu.com/item/NERVA/4210615?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrsolidcore)\|[Wikipedia]())
    2. **脉冲核热火箭**(通过脉冲获得比固态核心更高的效率，[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Pulsed_nuclear_thermal_rocket))
    3. **液态核心**(裂变物质处于液态，效率高于固态核心，*1300s<I<sub>sp</sub><1500s*)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Liquid_core))
    4. **气态核心**(裂变物质以等离子态形式加热工质)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#basicgcr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Liquid_core))
       1. **开式循环(Open Cycle)**(比冲高，但裂变物质混入喷流，喷流带放射性，*3568s<I<sub>sp</sub><9990s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrgasopen))
       2. **闭式循环(Closed Cycle)**(裂变物质被约束，喷流带很少放射性，但比冲只有开式循环的一半，Lightbulb，*2080s<I<sub>sp</sub><3140s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrgasclosed))
-4. **核盐水火箭(NSWR)**(用溶解于水中的核燃料进行推进，相当于一个持续反应的猎户座核脉冲推进器，*I<sub>sp</sub>=0.016c/g*)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E7%9B%90%E6%B0%B4%E7%81%AB%E7%AE%AD/22755969?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#nswr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_salt-water_rocket))
-5. <span id="SABRE">**协同吸气式火箭发动机(SABRE)**</span>(一种可以在大气中获取氧气作为氧化剂的火箭发动机，可以减少太空飞机携带的氧化剂，从而使其实现单级入轨)([百度百科](https://baike.baidu.com/item/佩刀吸气式火箭发动机/15639055?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/SABRE_(rocket_engine))\|[Reaction Engines 官网](https://www.reactionengines.co.uk/sabre))
-6. <span id="协同吸气式核热火箭发动机">**协同吸气式核热火箭发动机**</span>(把[核能航空发电机](#核能航空发动机)和[NTR](#NTR)以[SABRE](#SABRE)的方式集成，从而制成更加高效的核动力SABRE)
-7. <span id="超导电磁流体推进器">**超导电磁流体推进器**</span>(在导电流体中通过安培力作用产生推力)
-8. <span id="蒸汽-流体混合推进器">**蒸汽-流体混合推进器**</span>(类似喷气发动机，通过加热流体至沸腾，产生大量气体，对外膨胀产生推力)
-9. <span id="无扇叶电等离子体航空发动机">**无扇叶电等离子体航空发动机**</span>(用强电场电离并推动空气，通过静态压气机压缩空气，并用大功率微波加热空气至等离子态，最后在电磁线圈的引导下喷出产生推力)
-10. **非常规高效化学推进器**(临界态金属氢/自由基结合/亚稳态原子推进器，*1700s<I<sub>sp</sub><4300s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#atomichydrogen))
-11. <span id="离子推进器">**离子推进器**</span>(低推力高比冲推进器，包括胶质发动机、霍尔效应推进器和VASIMR等推进器，*1000s<I<sub>sp</sub><30000s*)([百度百科](https://baike.baidu.com/item/%E7%A6%BB%E5%AD%90%E6%8E%A8%E8%BF%9B%E5%99%A8/4751870?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Ion_thruster))
-12. <span id="协同吸气式可变比冲电磁等离子体火箭推进器">**协同吸气式可变比冲电磁等离子体火箭推进器**</span>(把[无扇叶电等离子体航空发动机](#无扇叶电等离子体航空发动机)和[VASIMR](#离子推进器)以[SABRE](#SABRE)的方式集成，从而制成更加高效的电等离子体SABRE)
-13. <span id="核脉冲推进器">**核脉冲推进器**</span>(用原子弹或核弹的爆炸提供脉冲推力)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion))
-    1. **猎户座计划(Orion)**(在船尾投下核弹，经缓冲后脉冲推进，*4383s(裂变)<I<sub>sp</sub><12000s(聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#boomboom)\|[Wikipedia](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)))
-    2. **美杜莎(Medusa)**(在船头引爆核弹，用一个巨大的伞承受核弹爆炸的能量，*49000s<I<sub>sp</sub><98000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#medusa)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion#MEDUSA))
-14. <span id="核聚变推进器">**核聚变推进器**</span>(通过聚变反应等离子体喷流提供推力）
+9. <span id="核脉冲推进器">**核脉冲推进器**</span>(用原子弹或核弹的爆炸提供脉冲推力)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion))
+   1. **猎户座计划(Orion)**(在船尾投下核弹，经缓冲后脉冲推进，*4383s(裂变)<I<sub>sp</sub><12000s(聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#boomboom)\|[Wikipedia](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)))
+   2. **美杜莎(Medusa)**(在船头引爆核弹，用一个巨大的伞承受核弹爆炸的能量，*49000s<I<sub>sp</sub><98000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#medusa)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion#MEDUSA))
+10. <span id="协同吸气式核热火箭发动机">**协同吸气式核热火箭发动机**</span>(把[核能航空发电机](#核能航空发动机)和[NTR](#NTR)以[SABRE](#SABRE)的方式集成，从而制成更加高效的核动力SABRE)
+11. **核盐水火箭(NSWR)**(用溶解于水中的核燃料进行推进，运行方式介于核反应堆和核弹之间，相当于一个持续反应的猎户座核脉冲推进器，*6728s<I<sub>sp</sub><0.016c/g*)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E7%9B%90%E6%B0%B4%E7%81%AB%E7%AE%AD/22755969?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#nswr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_salt-water_rocket))
+12. **核裂变碎片火箭发动机(FFRE)**(运用核反应产物碎片作为喷流，完全无需外带工质，*I<sub>sp</sub><0.03c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#fissionfragment)\|[Wikipedia](https://en.wikipedia.org/wiki/Fission-fragment_rocket))
+13. <span id="无扇叶电等离子体航空发动机">**无扇叶电等离子体航空发动机**</span>(用强电场电离并推动空气，通过静态压气机压缩空气，并用大功率微波加热空气至等离子态，最后在电磁线圈的引导下喷出产生推力)
+14. <span id="协同吸气式可变比冲电磁等离子体火箭推进器">**协同吸气式可变比冲电磁等离子体火箭推进器**</span>(把[无扇叶电等离子体航空发动机](#无扇叶电等离子体航空发动机)和[VASIMR](#离子推进器)以[SABRE](#SABRE)的方式集成，从而制成更加高效的电等离子体SABRE)
+15. <span id="核聚变推进器">**核聚变推进器**</span>(通过聚变反应等离子体喷流提供推力）
     1. **磁约束核聚变**(*6809s(D-T Tokamak)<I<sub>sp</sub><199796s(线性聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#toroidalfusion))
     2. **Z箍缩**(*132500s<I<sub>sp</sub><0.012c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#fszpinch))
     3. **惯性约束核聚变**(用激光和弹丸自身惯性的推进器，代达罗斯计划，*17329s(VISTA)<I<sub>sp</sub><0.035c/g(P-P Fusion)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#icfusion))
     4. **磁-惯性约束核聚变**(结合了磁约束和惯性核聚变的推进器，*I<sub>sp-min</sub>=5000s, 50000s<I<sub>sp</sub><100000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#mif))
     5. **μ子催化聚变推进器**(在热核聚变小型化前用于小型飞船的聚变推进器)
     6. **质子聚变/重核聚变/梯级核能推进器**(非常规核聚变推进器，*I<sub>sp</sub><0.14c/g*)
-15. **外燃式电磁等离子体推进器构型**(完全运用电磁场在飞船外对燃料和反应进行操纵，将反应过程完全置于飞船外，通过喷流等离子体与电磁场的作用推动飞船前进。可以避开材料限制，获得极大的功率。这种构型的推进器在运行时看上去就像魔法一样。)
-16. <span id="夸克聚变推进器">**夸克聚变推进器**</span>(利用[夸克聚变引擎](#夸克聚变引擎)能量的推进器，*I<sub>sp</sub>=0.85c/g*)
-17. <span id="微型黑洞火箭推进器">**微型黑洞火箭推进器**</span>(利用微型黑洞特性进行高效宇航推进)
+16. **外燃式电磁等离子体推进器构型**(完全运用电磁场在飞船外对燃料和反应进行操纵，将反应过程完全置于飞船外，通过喷流等离子体与电磁场的作用推动飞船前进。可以避开材料限制，获得极大的功率。这种构型的推进器在运行时看上去就像魔法一样。)
+17. <span id="夸克聚变推进器">**夸克聚变推进器**</span>(利用[夸克聚变引擎](#夸克聚变引擎)能量的推进器，*I<sub>sp</sub>=0.85c/g*)
+18. <span id="微型黑洞火箭推进器">**微型黑洞火箭推进器**</span>(利用微型黑洞特性进行高效宇航推进)([Wikipedia](https://en.wikipedia.org/wiki/Black_hole_starship))
     1. **霍金辐射型**(*0.2c/g<I<sub>sp</sub><0.9c/g*）
     2. **能层工质加速/光子变频型**(利用[彭罗斯过程](彭罗斯过程)提高光子频率)
     3. **类星体喷流型**(利用引力势能，喷流和吸积盘热辐射)
     4. **混合型**(同时或分别使用上述三种推进方式)
-18. <span id="反物质推进器">**反物质推进器**</span>
-    1. **π介子工质推进型**(*I<sub>sp</sub>=0.3c/g*)
-    2. **氕氘湮灭**(*I<sub>sp</sub>=0.94c/g*)
-    3. **正负电子光子推进型**(*I<sub>sp</sub>=1c/g*)
-19. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>(*I<sub>sp</sub>=1c/g*)
-20. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)
-21. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)
-22. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)
-    1. <span id="磁帆">**磁帆(Magnetic Sail)**</span>(用超导线圈产生巨大的磁场最大化星际物质或太阳风对飞船的作用力，从而不用使用自带燃料进行加速，减速，或是航行控制)
+19. <span id="反物质推进器">**反物质推进器**</span>(利用正反物质湮灭的推进方式)([百度百科](https://baike.baidu.com/item/%E5%8F%8D%E7%89%A9%E8%B4%A8%E6%8E%A8%E8%BF%9B%E5%99%A8/2623996?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#antirocket)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket))
+    1. **π介子工质推进型(粒子束核心，Beam Core)**(*I<sub>sp</sub>=0.3c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#ambeam))
+    2. **纯光子推进型(激光核心，Laser Core)**(*I<sub>sp</sub>=1c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#amlaser))
+20. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>(*I<sub>sp</sub>=1c/g*)
+21. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)
+22. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)
+23. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)([Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet))
+    1. <span id="磁帆">**磁帆(Magnetic Sail)**</span>(用超导线圈产生巨大的磁场最大化星际物质或太阳风对飞船的作用力，从而不用使用自带燃料进行加速，减速，或是航行控制)([Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet#Magnetic_sail))
        1. **磁帆航行控制系统**(一个用于装有磁帆飞船的空间航行控制系统，使无动力飞船得以只运用星际物质作用力到达目的地，或是作为普通飞船的紧急控制系统，帮助其在主引擎失效时改变航向飞往最近的星系)
        2. **矢量磁帆**(物质进口和喷流方向可以由0°-180°变化的磁帆，有着理论上最大的磁帆航行控制能力)
     2. <span id="电磁等离子体工质反向推力">**电磁等离子体工质反向推力**</span>(使基于[巴萨德冲压发动机](#巴萨德冲压发动机)的推进器在减速过程中通过磁场使等离子体在离开喷口后反向喷出，从而使飞船同时利用[磁帆](#磁帆)和推进器推力，从而获得最大减速推力)
     3. <span id="抛面镜光子反向推力">**抛面镜光子反向推力**</span>(类似[电磁等离子体工质反向推力](#电磁等离子体工质反向推力)，通过反射推进器光子喷流获得反推力)
     4. **同轴反转静电磁场发生器**(运用同轴反转驱动带有同量正负电荷的环形结构产生强大的磁场)
     5. **环形等离子磁场发生器**(利用一些电磁部件加速等离子体使之在飞船周围高速运动，产生强大的磁场)
-23. <span id="星辰推进器">**星辰推进器(Star Drive)**</span>(一种集成了[超导电磁流体推进器](#超导电磁流体推进器)、[蒸汽-流体混合推进器](#蒸汽-流体混合推进器)、[协同吸气式可变比冲电磁等离子体火箭推进器](#协同吸气式可变比冲电磁等离子体火箭推进器)、[纯质能转化引擎](#纯质能转化引擎)和[巴萨德冲压发动机](#巴萨德冲压发动机)，配备有[电磁等离子体工质反向推力](#电磁等离子体工质反向推力)和[抛面镜光子反向推力](#抛面镜光子反向推力)，具有调整质量-能量比例改变比冲能力的推进器，可以使飞船高效地实行行星流体/行星大气/行星际/恒星际/跨星系航行，*3000s<I<sub>sp</sub><1c/g*)
+24. <span id="星辰推进器">**星辰推进器(Star Drive)**</span>(一种集成了[超导电磁流体推进器](#超导电磁流体推进器)、[蒸汽-流体混合推进器](#蒸汽-流体混合推进器)、[协同吸气式可变比冲电磁等离子体火箭推进器](#协同吸气式可变比冲电磁等离子体火箭推进器)、[纯质能转化引擎](#纯质能转化引擎)和[巴萨德冲压发动机](#巴萨德冲压发动机)，配备有[电磁等离子体工质反向推力](#电磁等离子体工质反向推力)和[抛面镜光子反向推力](#抛面镜光子反向推力)，具有调整质量-能量比例改变比冲能力的推进器，可以使飞船高效地实行行星流体/行星大气/行星际/恒星际/跨星系航行，*3000s<I<sub>sp</sub><1c/g*)
 
 ## 3. 材料合成
 
@@ -165,9 +171,9 @@
 27. **高级化学材料合成**(超导体，耐高温材料)
 28. [**早期核聚变推进器**](#核聚变推进器)(用于高效行星际航行)
 29. **全球陆地城市化率趋近100%，海洋改造加速，陆地建筑向着高层发展**
-30. **规模化行星际物质运输系统**(在行星间运输大气物质，用来对金星和火星进行环境改造)
-31. **大规模行星环境改造和规模化殖民**
-32. **太空电梯**
+30. **太空电梯**
+31. **规模化行星际物质运输系统**(在行星间运输大气物质，用来对金星和火星进行环境改造)
+32. **大规模行星环境改造(Terraforming)和规模化殖民**([Wikipedia](https://en.wikipedia.org/wiki/Terraforming))
 33. **全球陆地海洋总城市化率趋近100%**
 34. **气态行星航天港/燃料开采精炼平台**
 35. <span id="气态行星太空城">**气态行星太空城**</span>(利用气态行星丰富的核燃料维持的人造居住结构)
@@ -206,7 +212,9 @@
 
 ### 2. II级文明
 
-[**戴森球计划**](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83%E8%AE%A1%E5%88%92/53859183?fr=aladdin)：一款融合了太空、自动化工厂、冒险、探索等元素的科幻题材沙盒建造类游戏。
+如果你想要体会II级文明的宏伟壮观，你可以尝试一下登顶steam热销榜、被誉为“国产游戏中的流浪地球”的《戴森球计划》，看着一个II级文明在你的操控下诞生。
+
+**戴森球计划**：一款融合了太空、自动化工厂、冒险、探索等元素的科幻题材沙盒建造类游戏。([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83%E8%AE%A1%E5%88%92/53859183?fr=aladdin)\|[Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%B4%E6%A3%AE%E7%90%83%E8%AE%A1%E5%88%92)\|[Steam页面](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/))
 
 1. [**“光子朋克”设想**](#“光子朋克”设想)(将文明的能源运作方式从电转为光子，从而避免光能和电能的反复转换，提升能源利用效率)
 2. **太阳帆**(戴森云部件，用于操纵太阳辐射)
@@ -214,7 +222,7 @@
 4. [**梯级核能反应堆**](#梯级核能反应堆)
 5. [**梯级原子合成器**](#梯级原子合成器)
 6. <span id="戴森环">**戴森环**</span>(由固体圆环在太阳轨道上运行构成的戴森球)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%88%B4%E6%A3%AE%E4%BA%91)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_swarm))
-7. <span id="尼科尔-戴森光束">**尼科尔-戴森光束(Nicoll-Dyson Laser)**</span>(恒星级功率激光器，用于摧毁行星，主动式恒星系探测或是星际远程通讯)
+7. <span id="尼科尔-戴森光束">**尼科尔-戴森光束(Nicoll-Dyson Laser)**</span>(恒星级功率激光器，用于摧毁行星，主动式恒星系探测或是星际远程通讯)([Wikipedia](https://en.wikipedia.org/wiki/James_Nicoll#Nicoll-Dyson_Laser))
 8. **反物质制造设施**(将戴森球传输的能量转为反物质储存)
 9. [**反物质推进器**](#反物质推进器)
 10. **相对论性星际航行**(航行速度：0.3c-0.5c)
@@ -224,7 +232,7 @@
 13. **非原子材料合成技术**([胶子弦](#胶子弦)，[胶子物质](#胶子物质))
 14. [**夸克聚变引擎**](#夸克聚变引擎)
 15. [**夸克聚变推进器**](#夸克聚变推进器)
-16. <span id="微型黑洞">**微型黑洞**</span>
+16. <span id="微型黑洞">**微型黑洞**</span>([Wikipedia](https://en.wikipedia.org/wiki/Kugelblitz_(astrophysics)))
     1. <span id="黑洞容器">**黑洞容器**</span>(一个用于稳定存放高能量霍金辐射黑洞的容器)
     2. [**霍金辐射能量引擎**](#霍金辐射能量引擎)
     3. [**微型黑洞火箭推进器**](#微型黑洞火箭推进器)
@@ -342,7 +350,7 @@
 
 主体对象：行星级军用飞船，大小由小行星至木星大小不等。
 
-#### 1. **攻击性武器**
+#### 1. 攻击性武器
 
 1. **舰载近距攻击飞船**(一些从行星级军用飞船上起飞的舰载机至城市大小的飞船，可以迅速机动至敌方行星级飞船附近，对其表面实施侦察或是对特定部件如[行星发动机](行星发动机)和[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)进行精准打击)
 2. 千米级动能武器
@@ -475,7 +483,7 @@
 8. **黑洞时间流逝-霍金辐射悖论/困惑**(如果在观察者视角掉入黑洞时间流逝加快，那么能否做到在掉入奇点前由于时间流逝趋于无限加速，使得观察者直接加速至黑洞因霍金辐射而完全蒸发的时间段，从而得以不被黑洞摧毁?)
 9. **文明发展理论**(一切文明在步入一个特定阶段时都会有如下过程：交通，能量利用，物质物流，整体移动，完全控制)
 10. **“种子”文明扩展装置故障**(一个特定情景，如果哪个“种子”文明扩展装置发生故障，成为独立于原文明的敌对实体，导致其无视已正常发展的星系不受控扩张，产生类似[灰蛊风暴](https://baike.baidu.com/item/grey%20goo/282719?fr=aladdin)的灾难性结果)
-11. <span id=相对论-超光速因果联系-时间旅行矛盾>**相对论-超光速因果联系-时间旅行矛盾**</span>(如果有一个设施能够相对一个惯性参照系建立超光速因果联系，由于相对论的存在，“同时”的概念在不同惯性参照系下是不同的。若我们使用特定近光速参照系观察此事件，就会发现因果联系由时间逆向传递，构成时间机器。因此，无论超光速设施运行是否需要相对论参与，<u>任何超光速的因果传递都在逻辑上等于时间机器</u>。)
+11. <span id="relativityLimit">**相对论-超光速因果联系-时间旅行矛盾**</span>(如果有一个设施能够相对一个惯性参照系建立超光速因果联系，由于相对论的存在，“同时”的概念在不同惯性参照系下是不同的。若我们使用特定近光速参照系观察此事件，就会发现因果联系由时间逆向传递，构成时间机器。因此，无论超光速设施运行是否需要相对论参与，<u>任何超光速的因果传递都在逻辑上等于时间机器</u>。)
 
 ### 3. 瞎扯
 
