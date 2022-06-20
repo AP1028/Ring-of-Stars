@@ -25,13 +25,13 @@
 3. <span id="核聚变">**核聚变**</span>(托卡马克/仿星器/Z箍缩/惯性约束)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E8%81%9A%E5%8F%98)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_fusion)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/fusionfuel.php))
    1. **μ子催化聚变**(用μ子替换氘氚之间的共价键，从而在低温低压情况下产生核聚变反应)([百度百科](https://baike.baidu.com/item/%CE%9C%E5%AD%90%E5%82%AC%E5%8C%96%E8%81%9A%E5%8F%98/22755970?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Muon-catalyzed_fusion))
    2. <span id="常规核聚变">**常规核聚变**</span>(氘-氘、氘-氚、氘-氦3、氦3-氦3、氕-硼11聚变，*0.08%<ε<0.4%*)
-   3. <span id="质子聚变">**质子聚变**</span>(质子-质子链，将氕聚变为氦4，*ε=0.7%*)
+   3. <span id="质子聚变">**质子聚变**</span>(质子-质子链，将氕聚变为氦4，*ε=0.7%*)([百度百科](https://baike.baidu.com/item/%E8%B4%A8%E5%AD%90-%E8%B4%A8%E5%AD%90%E5%8F%8D%E5%BA%94/2293125?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/fusionfuel.php#practprot)\|[Wikipedia](https://en.wikipedia.org/wiki/Proton%E2%80%93proton_chain))
    4. <span id="重核聚变">**重核聚变**</span>(非常规型核聚变，包括CNO循环和其他原子序数小于铁的元素的聚变，*0.7%<ε<1%*)
 4. **<span id="梯级核能反应堆">梯级核能反应堆</span>(Ladderdown Reactors)**(一个由科幻小说作家Wil McCarthy假想的将氢分布聚变为铁，从而获得最大聚变能量利用效率的设施，*ε=1%*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/power.php#ladderdown))
 5. **<span id="夸克聚变引擎">夸克聚变引擎</span>(Sphalerizer)**(由物理学家Max Tegmark提出的通过[Sphaleron过程](https://en.wikipedia.org/wiki/Sphaleron)获得能量的方法，*ε?=50%*)([Wikipedia](https://en.wikipedia.org/wiki/Sphaleron#Energy_release))
 6. <span id="彭罗斯过程">**彭罗斯过程**</span>(英国物理学家罗杰·彭罗斯所发现的旋转黑洞能量特性，*ε<29%*)([百度百科](https://baike.baidu.com/item/%E5%BD%AD%E7%BD%97%E6%96%AF%E8%BF%87%E7%A8%8B/15613480?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Penrose_process)\|[视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=37&share_source=copy_web))
 7. <span id="黑洞引力势能">**黑洞引力势能**</span>(通过物质在黑洞引力场中落入黑洞的过程汲取引力势能，*ε<42%*)([视频解释](https://www.bilibili.com/video/BV1Qs411L7Qk?share_source=copy_web))
-8. <span id="霍金辐射能量引擎">**霍金辐射能量引擎**</span>(*ε<90%*)
+8. <span id="霍金辐射能量引擎">**霍金辐射能量引擎**</span>(对霍金辐射电磁波的能量利用，*ε<90%*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/power.php#pholes))
 9. <span id="正反物质湮灭">**正反物质湮灭**</span>(一种极其高效的储能方式。注意：反物质[不是能源](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#notpower)，因为自然界不存在反物质矿藏；正反物质湮灭[并不能保证100%质能转化效率](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#id--Antimatter_Reaction)，*ε<100%*)
 10. <span id="理想质能转化引擎">**理想质能转化引擎**</span>(一个假想的贴近理论极限的质能转化方式，*ε=100%*)
 
@@ -48,6 +48,8 @@
 如果你想直观地体验火箭和飞船飞行的运作方式、了解航天器变轨操作和火箭设计的内在逻辑，你可以尝试一个极其优秀且富有教育意义的半拟真航空航天模拟游戏：*《坎巴拉太空计划》*
 
 <span id="ksp">**坎巴拉太空计划(KSP)**</span>：一个披着沙雕外衣、拥有极高自由度的沙盒风格航空航天模拟游戏。它不仅极其有趣，还富有教育意义，可以轻易*教会玩家如何设计火箭、飞船、太空任务以及直观的变轨逻辑，并让玩家无需他人解释就可以亲身体会一些概念的合理性(比如<u>大角度变轨改变轨道平面会消耗极多燃料</u>；<u>轨道空间站燃料存储的必要性</u>)。它甚至收到了[Atomic Rockets](http://www.projectrho.com/public_html/rocket/)网站的[”Seal of Approval“](http://www.projectrho.com/public_html/rocket/sealofapproval.php)，在此网站作者Winchell Chung提到”这个游戏对那些希望自己的宇航学表述精确的科幻作家有极大的作用“。([百度百科](https://baike.baidu.com/item/%E5%9D%8E%E5%B7%B4%E6%8B%89%E5%A4%AA%E7%A9%BA%E8%AE%A1%E5%88%92/7596160?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/sealofapproval.php#ksp)\|[Wikipedia](https://en.wikipedia.org/wiki/Kerbal_Space_Program)\|[官网](https://www.kerbalspaceprogram.com/)\|[KSPwiki](https://wiki.kerbalspaceprogram.com/wiki/Main_Page)\|[Steam页面](https://store.steampowered.com/app/220200/Kerbal_Space_Program/))
+
+<span id="ksp">**坎巴拉太空计划2(KSP2)**</span>：一个在2019年发布的KSP续作，原定2020年发售，结果跳票~~到2021Q3~~ ~~到2022Q3~~ 到2023Q1。它会带来巨大画质提升，加入更多星系和行星，并加入了未来科技和星际航行内容。刚知道它时我还在初三，现在看我大一能否玩到都不确定。我真心希望我不要在本条目中再次更新跳票的时间。([官网](https://www.kerbalspaceprogram.com/games-kerbal-space-program-2)\|[Steam页面](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/)\|[Wikipedia](https://en.wikipedia.org/wiki/Kerbal_Space_Program_2))
 
 1. <span id="化学火箭">**化学火箭**</span>(低比冲大推力的化学动力火箭，适用于飞船进入轨道的发射阶段，*500s<I<sub>sp</sub><700s*)
 2. <span id="离子推进器">**离子推进器**</span>(低推力高比冲推进器，包括胶质发动机、霍尔效应推进器和VASIMR等推进器，*1000s<I<sub>sp</sub><30000s*)([百度百科](https://baike.baidu.com/item/%E7%A6%BB%E5%AD%90%E6%8E%A8%E8%BF%9B%E5%99%A8/4751870?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Ion_thruster))
@@ -71,28 +73,28 @@
 12. **核裂变碎片火箭发动机(FFRE)**(运用核反应产物碎片作为喷流，完全无需外带工质，*I<sub>sp</sub><0.03c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#fissionfragment)\|[Wikipedia](https://en.wikipedia.org/wiki/Fission-fragment_rocket))
 13. <span id="无扇叶电等离子体航空发动机">**无扇叶电等离子体航空发动机**</span>(用强电场电离并推动空气，通过静态压气机压缩空气，并用大功率微波加热空气至等离子态，最后在电磁线圈的引导下喷出产生推力)
 14. <span id="协同吸气式可变比冲电磁等离子体火箭推进器">**协同吸气式可变比冲电磁等离子体火箭推进器**</span>(把[无扇叶电等离子体航空发动机](#无扇叶电等离子体航空发动机)和[VASIMR](#离子推进器)以[SABRE](#SABRE)的方式集成，从而制成更加高效的电等离子体SABRE)
-15. <span id="核聚变推进器">**核聚变推进器**</span>(通过聚变反应等离子体喷流提供推力）
-    1. **磁约束核聚变**(*6809s(D-T Tokamak)<I<sub>sp</sub><199796s(线性聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#toroidalfusion))
+15. <span id="核聚变推进器">**核聚变推进器**</span>(通过聚变反应等离子体喷流提供推力）([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8A%A8%E5%8A%9B%E7%81%AB%E7%AE%AD/5927765?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/realdesignsfusion.php)\|[Wikipedia](https://en.wikipedia.org/wiki/Fusion_rocket))
+    1. **磁约束核聚变**(*6809s(D-T Tokamak)<I<sub>sp</sub><199796s(线性聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#toroidalfusion)\|[Wikipedia](https://en.wikipedia.org/wiki/Fusion_rocket#Magnetic))
     2. **Z箍缩**(*132500s<I<sub>sp</sub><0.012c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#fszpinch))
-    3. **惯性约束核聚变**(用激光和弹丸自身惯性的推进器，代达罗斯计划，*17329s(VISTA)<I<sub>sp</sub><0.035c/g(P-P Fusion)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#icfusion))
-    4. **磁-惯性约束核聚变**(结合了磁约束和惯性核聚变的推进器，*I<sub>sp-min</sub>=5000s, 50000s<I<sub>sp</sub><100000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#mif))
+    3. **惯性约束核聚变**(用激光和弹丸自身惯性的推进器，代达罗斯计划，*17329s(VISTA)<I<sub>sp</sub><0.035c/g(P-P Fusion)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#icfusion)\|[Wikipeida](https://en.wikipedia.org/wiki/Fusion_rocket#Inertial))
+    4. **磁-惯性约束核聚变**(结合了磁约束和惯性核聚变的推进器，*I<sub>sp-min</sub>=5000s, 50000s<I<sub>sp</sub><100000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#mif)\|[Wikipedia](https://en.wikipedia.org/wiki/Fusion_rocket#Magnetized_target))
     5. **μ子催化聚变推进器**(在热核聚变小型化前用于小型飞船的聚变推进器)
     6. **质子聚变/重核聚变/梯级核能推进器**(非常规核聚变推进器，*I<sub>sp</sub><0.14c/g*)
 16. **外燃式电磁等离子体推进器构型**(完全运用电磁场在飞船外对燃料和反应进行操纵，将反应过程完全置于飞船外，通过喷流等离子体与电磁场的作用推动飞船前进。可以避开材料限制，获得极大的功率。这种构型的推进器在运行时看上去就像魔法一样。)
 17. <span id="夸克聚变推进器">**夸克聚变推进器**</span>(利用[夸克聚变引擎](#夸克聚变引擎)能量的推进器，*I<sub>sp</sub>=0.85c/g*)
-18. <span id="微型黑洞火箭推进器">**微型黑洞火箭推进器**</span>(利用微型黑洞特性进行高效宇航推进)([Wikipedia](https://en.wikipedia.org/wiki/Black_hole_starship))
+18. <span id="微型黑洞火箭推进器">**微型黑洞火箭推进器**</span>(利用微型黑洞特性进行高效宇航推进)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/slowerlight3.php#blackhole)\|[Wikipedia](https://en.wikipedia.org/wiki/Black_hole_starship))
     1. **霍金辐射型**(*0.2c/g<I<sub>sp</sub><0.9c/g*）
     2. **能层工质加速/光子变频型**(利用[彭罗斯过程](彭罗斯过程)提高光子频率)
     3. **类星体喷流型**(利用引力势能，喷流和吸积盘热辐射)
     4. **混合型**(同时或分别使用上述三种推进方式)
 19. <span id="反物质推进器">**反物质推进器**</span>(利用正反物质湮灭的推进方式)([百度百科](https://baike.baidu.com/item/%E5%8F%8D%E7%89%A9%E8%B4%A8%E6%8E%A8%E8%BF%9B%E5%99%A8/2623996?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#antirocket)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket))
-    1. **π介子工质推进型(粒子束核心，Beam Core)**(*I<sub>sp</sub>=0.3c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#ambeam))
+    1. **π介子工质推进型(粒子束核心，Beam Core)**(*I<sub>sp</sub>=0.3c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#ambeam)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket#Pure_antimatter_rocket:_direct_use_of_reaction_products))
     2. **纯光子推进型(激光核心，Laser Core)**(*I<sub>sp</sub>=1c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#amlaser))
 20. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>(*I<sub>sp</sub>=1c/g*)
-21. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)
-22. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)
-23. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)([Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet))
-    1. <span id="磁帆">**磁帆(Magnetic Sail)**</span>(用超导线圈产生巨大的磁场最大化星际物质或太阳风对飞船的作用力，从而不用使用自带燃料进行加速，减速，或是航行控制)([Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet#Magnetic_sail))
+21. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)([百度百科](https://baike.baidu.com/item/%E5%85%89%E5%B8%86%E6%8A%80%E6%9C%AF/19583150?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#photonsail)\|[Wikipedia](https://en.wikipedia.org/wiki/Solar_sail))
+22. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)([百度百科](https://baike.baidu.com/item/%E7%94%B5%E5%B8%86/15721000?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#esail)\|[Wikipedia](https://en.wikipedia.org/wiki/Electric_sail))
+23. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)([百度百科](https://baike.baidu.com/item/%E6%98%9F%E9%99%85%E5%86%B2%E5%8E%8B%E5%8F%91%E5%8A%A8%E6%9C%BA/1367926?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/slowerlight3.php#bussard)\|[Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet))
+    1. <span id="磁帆">**磁帆(Magnetic Sail)**</span>(用超导线圈产生巨大的磁场最大化星际物质或太阳风对飞船的作用力，从而不用使用自带燃料进行加速，减速，或是航行控制)([百度百科](https://baike.baidu.com/item/%E7%A3%81%E5%9C%BA%E5%B8%86/5928203?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Magnetic_sail))
        1. **磁帆航行控制系统**(一个用于装有磁帆飞船的空间航行控制系统，使无动力飞船得以只运用星际物质作用力到达目的地，或是作为普通飞船的紧急控制系统，帮助其在主引擎失效时改变航向飞往最近的星系)
        2. **矢量磁帆**(物质进口和喷流方向可以由0°-180°变化的磁帆，有着理论上最大的磁帆航行控制能力)
     2. <span id="电磁等离子体工质反向推力">**电磁等离子体工质反向推力**</span>(使基于[巴萨德冲压发动机](#巴萨德冲压发动机)的推进器在减速过程中通过磁场使等离子体在离开喷口后反向喷出，从而使飞船同时利用[磁帆](#磁帆)和推进器推力，从而获得最大减速推力)
@@ -108,6 +110,7 @@
 3. <span id="基本粒子重组器">**基本粒子重组器**</span>(夸克尺度材料工程的尽头，可以轻易将基本粒子以特定方式组合，制成基于胶子物质的超高强度、耐高温、极高反射率材料)
    1. <span id="胶子弦">**胶子弦**</span>(由夸克和胶子组成的弦，有着自然界理论上最强的张力)
    2. <span id="胶子物质">**胶子物质**</span>(将夸克和胶子组成的弦经三维定向搭建，从而形成密度适中的超高强度物质)
+   3. <span id="理想反射率材料">**理想反射率材料**</span>(一种极其热稳定的物质，可以理想反射100%电磁波，是绝对的隔热材料，不产生任何热辐射)
 4. <span id="超弦编译器">**超弦编译器**</span>(微观物理的尽头，可以随意操纵基本粒子超弦，实现费米子-玻色子互相转换，或是把一种基本粒子转为另一种基本粒子，从而制成一切可以想象的材料)
 
 ## 4. <span id="“光子朋克”设想">“光子朋克”设想</span>
@@ -134,7 +137,9 @@
 
 然而在现实中，由于[光学物理定律和热力学第二定律的限制](https://what-if.xkcd.com/145)，其可行性存疑。
 
-即使如此，如果能够以这个题材进行科幻相关的创作，我认为会非常有趣。
+显然，这个概念并非需要真实才能有用。这个概念可以和“蒸汽朋克”、“赛博朋克”、“原子朋克”并列，发展为一个拥有特定画面和内涵的科幻风格。
+
+如果能够以这个题材进行科幻相关的创作，我认为会非常有趣。
 
 ## 5. 文明发展路径和宇宙工程
 
@@ -164,16 +169,16 @@
 20. **中级化学材料合成**(高强度材料，碳纳米管)
 21. **海上殖民和海底殖民**
 22. **人造生态维持系统**
-23. <span id="天钩">**天钩(Skyhook)**</span>([视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=9&share_source=copy_web))
+23. <span id="天钩">**天钩(Skyhook)**</span>([视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=9&share_source=copy_web)\|[Wikipedia](https://en.wikipedia.org/wiki/Skyhook_(structure)))
 24. **电磁轨道弹射器**
 25. **行星系规模化物流**(聚变燃料运输为主，小规模殖民为辅)
 26. **陆地/海洋大规模环境改造技术**
 27. **高级化学材料合成**(超导体，耐高温材料)
 28. [**早期核聚变推进器**](#核聚变推进器)(用于高效行星际航行)
 29. **全球陆地城市化率趋近100%，海洋改造加速，陆地建筑向着高层发展**
-30. **太空电梯**
+30. **太空电梯**([Wikipedia](https://en.wikipedia.org/wiki/Space_elevator))
 31. **规模化行星际物质运输系统**(在行星间运输大气物质，用来对金星和火星进行环境改造)
-32. **大规模行星环境改造(Terraforming)和规模化殖民**([Wikipedia](https://en.wikipedia.org/wiki/Terraforming))
+32. **大规模行星环境改造(Terraforming)和规模化殖民**([百度百科](https://baike.baidu.com/item/%E5%9C%B0%E7%90%83%E5%8C%96/3787802?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Terraforming)\|[Atomic Rocket](http://www.projectrho.com/public_html/rocket/colonysite.php#terraforming))
 33. **全球陆地海洋总城市化率趋近100%**
 34. **气态行星航天港/燃料开采精炼平台**
 35. <span id="气态行星太空城">**气态行星太空城**</span>(利用气态行星丰富的核燃料维持的人造居住结构)
@@ -194,7 +199,7 @@
 50. <span id="环赤道电磁轨道弹射器">**环赤道电磁轨道弹射器/大规模行星际物质运输系统**</span>(通过巨大的电磁轨道弹射器和巨大的飞船在行星间运输巨量物质用于建造和利用，并通过线圈的加速和减速循环利用能量，获得和[天钩](#天钩)类似的能量回收能力，从而不用使用火箭推进器进行运输)
 51. **“行星工程”**(完全城市化并改造地球陆地，海洋，和内部)
 52. <span id="行星发动机">**行星发动机**</span>(用于推动行星大小固态物质的推进器，能量来源不限，可使用任何质能转化方式)
-53. **气态行星人造殖民地**(与[气态行星太空城](#气态行星太空城)相似，气态行星大气中建造的大规模人造居住结构)
+53. **气态行星人造殖民地**(*与[气态行星太空城](#气态行星太空城)相似，气态行星大气中建造的大规模人造居住结构)([Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%B3%A1%E4%B8%96%E7%95%8C)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Bubbleworld)|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/spacecolony.php#asteroidbubble))
 54. <span id="气态行星推进器">**气态行星推进器**</span>([行星发动机](#行星发动机)的衍生技术，原理类似[卡普兰推进器](#卡普兰推进器)，通过直接从气态行星中吸收物质并经过反应产生能量，随后将物质从上下两侧喷出，从而推动气态行星)
 55. <span id="行星级飞船">**行星级飞船**</span>
     1. <span id="行星拖船">**行星拖船**</span>
@@ -212,7 +217,7 @@
 
 ### 2. II级文明
 
-如果你想要体会II级文明的宏伟壮观，你可以尝试一下登顶steam热销榜、被誉为“国产游戏中的流浪地球”的《戴森球计划》，看着一个II级文明在你的操控下诞生。
+如果你想要体会II级文明的宏伟壮观，你可以尝试一下登顶steam热销榜、被誉为“国产游戏中的流浪地球”的《戴森球计划》来体验一个II级文明在由你操控的终端控制机甲建设下诞生的感觉。
 
 **戴森球计划**：一款融合了太空、自动化工厂、冒险、探索等元素的科幻题材沙盒建造类游戏。([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83%E8%AE%A1%E5%88%92/53859183?fr=aladdin)\|[Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%B4%E6%A3%AE%E7%90%83%E8%AE%A1%E5%88%92)\|[Steam页面](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/))
 
@@ -245,7 +250,7 @@
 20. <span id="恒星发动机">**恒星发动机**</span>(用于移动恒星的装置)([视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=5&share_source=copy_web))
     1. **西卡多夫推进器(Shkadov Thruster)**(一个巨大的抛面反射镜，通过反射光子获得光压，通过引力协同推动恒星前进，工程难度类似于戴森壳)([Wikipedia](https://en.wikipedia.org/wiki/Stellar_engine#Class_A_(Shkadov_thruster)))
     2. <span id="卡普兰推进器">**卡普兰推进器(Caplan Thruster)**</span>(一个装有能量反应装置和两台巴萨德冲压发动机，借助戴森球的能量获得恒星物质，将物质从上下两个方向喷出射向恒星和星际空间，从而推动恒星前进)([论文](https://sites.google.com/view/m-caplan-stellar-engines/startseite)\|[Wikipedia](https://en.wikipedia.org/wiki/Stellar_engine#Caplan_thruster))
-21. <span id="恒星采集器">**恒星采集器**</span>([卡普兰推进器](#卡普兰推进器)的衍生技术，将吸收的恒星物质进行利用而非直接射入星际空间)([Wikipedia](https://en.wikipedia.org/wiki/Star_lifting))
+21. <span id="恒星采集器">**恒星采集器**</span>(*[卡普兰推进器](#卡普兰推进器)的衍生技术，将吸收的恒星物质进行利用而非直接射入星际空间)([Wikipedia](https://en.wikipedia.org/wiki/Star_lifting))
 22. <span id="戴森壳">**戴森壳**</span>(完全包裹恒星并完全获取黑洞能量的巨型结构)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%88%B4%E6%A3%AE%E5%A3%B3)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_shell))
 23. <span id="戴森壳表面阵列区划开发">**戴森壳表面阵列区划开发**</span>(在戴森球表面安装的大功率结构)
     1. **反物质合成阵列**
@@ -257,9 +262,9 @@
 25. <span id="彭罗斯球体">**彭罗斯球体**</span>(利用[彭罗斯过程](#彭罗斯过程)通过光子汲取黑洞角动量的巨型结构)([视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=37&share_source=copy_web))
     1. **能量利用型**(可控释放黑洞能量)
     2. <span id="脉冲激光型">**脉冲激光型**</span>(效果与[尼科尔-戴森光束](#尼科尔-戴森光束)相同，运用可控脉冲光束释放大量能量)
-    3. **黑洞炸弹**(不可控释放黑洞能量，产生接近甚至超过超新星功率的能量输出)
+    3. **黑洞炸弹**(不可控释放黑洞能量，产生接近甚至超过超新星功率的能量输出)([视频解释](https://www.bilibili.com/video/BV1Ga411A71Z?p=37&share_source=copy_web))
 26. <span id="大规模恒星际物质运输系统">**环日行星级电磁弹射器/大规模恒星际物质运输系统**</span>(由行星级直径的环日电磁弹射器构成的物质运输系统，通过发射固态行星和由恒星中开采的大量气团组成的气态行星状物质，凭借[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)的能量回收能力，从而高效调整各种天体的组成和质量)
-27. **“光晕驱动器(Halo Drive)”星际枢纽**(利用一个自然或人造的黑洞双星系统的引力弹弓效应，采用循环利用光子，将飞船加速到光速的若干分之一，从而实现高效星际航行。极限速度变化大小：1.33*黑洞速度)
+27. **“光晕驱动器(Halo Drive)”星际枢纽**(利用一个自然或人造的黑洞双星系统的引力弹弓效应，采用循环利用光子，将飞船加速到光速的若干分之一，从而实现高效星际航行。极限速度变化大小：*1.33×黑洞速度*)
 28. <span id="黑洞引力势能引擎">**黑洞引力势能引擎**</span>(一种利用黑洞明亮吸积盘光能的戴森球，能量来自自然或人为操纵[落入黑洞物质的引力势能](#黑洞引力势能))
     - <span id="黑洞引力势能戴森光束">**黑洞引力势能戴森光束**</span>(类似[尼科尔-戴森光束](#尼科尔-戴森光束)，利用[黑洞引力势能引擎](#黑洞引力势能引擎)的能量产生高能激光束)
 29. <span id="恒星级飞船">**恒星级飞船**</span>(恒星尺度的飞船)
@@ -278,7 +283,7 @@
        1. **恒星军用飞船**(装有[恒星拖船](#恒星拖船)，[尼科尔-戴森光束](#尼科尔-戴森光束)和武器的恒星飞船，其表面覆盖有一层厚厚的恒星物质作为防御手段)
        2. **黑洞军用飞船**(携有[黑洞拖船](#黑洞拖船)、[脉冲激光型彭罗斯球体](#脉冲激光型)和[黑洞引力势能戴森光束](#黑洞引力势能戴森光束)的军用黑洞飞船，有着较弱的电磁辐射特征，有一定的电磁隐身能力，可以穿插入敌方舰队进行引力干扰和进行火力支援)
        3. **“行星抛射器”**(一个装有[恒星发动机](#恒星发动机)或[恒星级拖船](#恒星级拖船)的中小型天体，目的在于迅速变轨进入敌方恒星系从而扰乱行星轨道。)
-       4. **"白矮星炸弹"**(一个装有简易[白矮星拖船](#白矮星拖船)或[恒星引力拖船](#恒星引力拖船)且接近钱德拉塞卡极限的人造白矮星。通过撞击目标或是用[恒星引力拖船](#恒星引力拖船)受控撞击白矮星，产生Ia型超新星爆发，从而对恒星级目标实现灾难性的毁灭打击)
+       4. <span id="白矮星炸弹">**"白矮星炸弹"**</span>(一个装有简易[白矮星拖船](#白矮星拖船)或[恒星引力拖船](#恒星引力拖船)且接近钱德拉塞卡极限的人造白矮星。通过撞击目标或是用[恒星引力拖船](#恒星引力拖船)受控撞击白矮星，产生Ia型超新星爆发，从而对恒星级目标实现灾难性的毁灭打击)
 
 ### 3. III级文明
 
@@ -287,10 +292,10 @@
 3. [**纯质能转化光子火箭推进器**](#纯质能转化光子火箭推进器)
 4. [**超弦编译器**](#超弦编译器)
 5. **实用化星系际航行**(航行速度：相对论系数γ>200)
-6. **环星系粒子对撞机/环星系电磁天体弹射器**(一个围绕星系的巨型结构，可以用于研究基础物理或拥有类似[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)的功能，把特定天体加速到接近光速并甩向中央黑洞，并用黑洞做引力辅助改变轨道平面，使其驶向目标星系，从而实现高效星系际航行和物质物流运输)
+6. <span id="环星系电磁天体弹射器">**环星系粒子对撞机/环星系电磁天体弹射器**</span>(一个围绕星系的巨型结构，可以用于研究基础物理或拥有类似[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)的功能，把特定天体加速到接近光速并甩向中央黑洞，并用黑洞做引力辅助改变轨道平面，使其驶向目标星系，从而实现高效星系际航行和物质物流运输)
 7. <span id="星系超大质量黑洞可控吸积能量引擎">**星系超大质量黑洞可控吸积能量引擎**</span>(以星系中心的超大质量黑洞为核心，通过在其周围建造[黑洞引力势能引擎](#黑洞引力势能引擎)，并用[恒星级拖船](#恒星级拖船)、[大规模恒星际物质运输系统](#大规模恒星际物质运输系统)和电磁线圈结构将物质输入黑洞附近，可控地在黑洞附近形成吸积盘，使黑洞产生超过全星系的能量输出功率并获得接近[夸克聚变](#夸克聚变引擎)的质能转化效率)
 8. <span id="星系超大质量黑洞可控吸积发动机">**星系超大质量黑洞可控吸积发动机**</span>(以星系中心的超大质量黑洞为核心，通过在其周围建造[黑洞引力势能引擎](#黑洞引力势能引擎)，并用[恒星级拖船](#恒星级拖船)、[大规模恒星际物质运输系统](#大规模恒星际物质运输系统)和超导电磁线圈结构将物质输入黑洞附近，可控地在黑洞附近形成吸积盘，并用一个巨大的由引力固定于黑洞的巨型结构罩住黑洞南北两极，在其中一极安置由巨型超导电磁线圈组成的磁喷口控制黑洞喷流，在另一极[安置特定巨型超导电磁线圈使黑洞的喷流方向被逆转](#电磁等离子体工质反向推力)，从而促使黑洞可控地像一个方向喷出相对论性喷流，使得其能通过人造结构推动整个星系)
-9. **星系超大质量黑洞戴森光束**(类似[尼科尔-戴森光束](#尼科尔-戴森光束)，可以对小于等于星系大小的目标进行杀伤或是星系间通讯)
+9. <span id="星系超大质量黑洞戴森光束">**星系超大质量黑洞戴森光束**</span>(类似[尼科尔-戴森光束](#尼科尔-戴森光束)，可以对小于等于星系大小的目标进行杀伤或是星系间通讯)
 10. <span id="星系级飞船">**星系级飞船**</span>(文明将整个星系资源集成的杰作，通过人造结构储存各种星系中的天体和物质，用[星系超大质量黑洞可控吸积能量引擎](#星系超大质量黑洞可控吸积能量引擎)获得能量，用[星系超大质量黑洞可控吸积发动机](#星系超大质量黑洞可控吸积发动机)获得移动的能力，从而使其可以控制整个星系的资源和在星系群中的移动方向)
     - **星系电磁高速运输网络**(一个连接[星系级飞船](星系级飞船)内部，长度达几十万光年的电磁运输网络，可以持续加速其中的飞船或物质运输结构至及其接近光速，从而高效连接其内部各个部分)
 
@@ -301,17 +306,37 @@
 
 ## 6. 宇宙作战理论
 
-**<font color=red>!!! 注意：本条目尚不完善。</font>**
+在很长一段时间内，太空作战在我脑海中的画面还只是飞船拼命变轨机动并互射激光和导弹的场面。然而，在梳理完文明的发展路径后，一个大胆的想法产生了：为什么作战的尺度不能随着文明阶段而相应扩大呢？
 
-### 概念
+我明白，人类在地球上的军队发展并没有无限扩大的趋势。我们并没有因为科技的进步而造出几千米长的飞艇或是客机大小的战斗机。然而，对于宇宙文明来说，还仍是这样吗？
 
-1. **“星理”情报**(对于作战星系天体质量、位置和轨道参数的情报，其认知程度会影响作战时的武器弹道精确度。正因如此，恒星尺度下的宇宙作战通常有主场优势)
-2. **引力干扰/压制**(类比现代空战中的电磁干扰，用黑洞军用飞船或是双黑洞引力干扰设施对敌方施加预料之外的引力场，从而影响敌方机动能力和武器精度)
-3. **“制引力权”**(对敌方压倒性的引力干扰能力，造成全范围武器精度/航向影响，从而为己方提供作战优势)
+显而易见，我们可以通过模拟和想象来想象这一点。
+
+1. **一整支太空舰队** vs **完全被军事化的行星军用飞船**
+
+   由于行星表层上千米的物质，太空舰队即使全用反物质炸弹也只是在行星表面刮痧，只能破坏裸露在表面的行星发动机等设施，压根伤不到行星内部的重要结构。即使整支舰队都魔法般的变成反物质撞向行星，也只能在上千米的物质上炸开一个口子或是轻微伤到行星内部。
+
+   这还没有考虑行星能量级别的武器可以直接把飞船轰成渣。
+
+2. **若干行星军用飞船** vs **装有[尼科尔-戴森光束](#尼科尔-戴森光束)的恒星**
+
+   尼科尔-戴森光束15天内能够气化一颗行星。行星飞船还未靠近恒星就化为了星际尘埃。
+
+3. **若干恒星级军用飞船** vs **星系超大质量黑洞可控吸积能量引擎**
+
+   一个星系超大质量黑洞可控吸积能量引擎可以发出超过全星系总能量之和的光束。恒星会因为表面剧烈受热导致等离子体粒子获得足够动能而飞离恒星表面，致使恒星的迅速解体。
+
+这样的尺度差别是碾压性的。只有扩大军事尺度，才能不至于被跨尺度碾压。
 
 ### 1. 飞船尺度
 
-主体对象：通常被称为“飞船”的事物，大小由战斗机至城市大小不等。
+如果你想直观感受真实的飞船战斗，你可以试试*《亡星余孤》*。
+
+**亡星余孤(Children of a Dead Earth)**：一个精确符合科学的太空作战模拟游戏。([Atomic Rockets](http://www.projectrho.com/public_html/rocket/sealofapproval.php#children)\|[官网](https://www.childrenofadeadearth.com/)\|[Steam页面](https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/)\|[WordPress科学解释](https://childrenofadeadearth.wordpress.com/))
+
+主体对象：<u>通常被称为“飞船”的事物</u>，大小由战斗机至城市大小不等。
+
+**“星理”情报**(对于作战星系天体质量、位置和轨道参数的情报，其认知程度会影响作战时的武器弹道精确度。正因如此，恒星尺度下的宇宙作战通常有主场优势)
 
 #### 1. **攻击性武器**
 
@@ -348,62 +373,65 @@
 
 ### 2. 行星尺度
 
-主体对象：行星级军用飞船，大小由小行星至木星大小不等。
+主体对象：<u>行星级军用飞船</u>，大小由小行星至木星大小不等。
 
 #### 1. 攻击性武器
 
 1. **舰载近距攻击飞船**(一些从行星级军用飞船上起飞的舰载机至城市大小的飞船，可以迅速机动至敌方行星级飞船附近，对其表面实施侦察或是对特定部件如[行星发动机](行星发动机)和[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)进行精准打击)
-2. 千米级动能武器
+2. **千米级动能武器**(千米尺度的动能武器，威力相当于一颗小行星，可以撕开岩石层对行星内部设施造成伤害)
    1. [**环赤道电磁轨道弹射器**](#环赤道电磁轨道弹射器)
-3. 千米级动力制导系统
-4. 千米级核武器(完全摧毁行星当量<半径为17km的氢弹)
-5. 千米级反物质武器(完全摧毁行星当量<半径为2.5km的反物质弹)
-6. 长距大功率激光武器
+3. **千米级动力制导系统**(千米尺度的导弹，可由[环赤道电磁轨道弹射器](#环赤道电磁轨道弹射器)发射，并用推进器进行轨道修正)
+4. **千米级核武器**(超大型核武器，完全摧毁行星当量需要半径小于为17km的氢弹)
+5. **千米级反物质武器**(大型反物质武器，完全摧毁行星当量需要半径小于2.5km的反物质弹)
+6. **长距大功率激光武器**(行星主能量武器)
 
 #### 2. 防御性手段
 
-1. 极其厚的岩石层
-2. 极其厚的大气
-3. 千米级点防御系统
+1. **极其厚的岩石层**(用于被动抵御动能武器和反物质武器)
+2. **极其厚的大气**(用于散射激光武器)
+3. **千米级点防御系统**(通过激光或动能武器逼迫来袭千米级弹头发生转向，避免直接集中行星表面)
 
 ### 3. 恒星尺度
 
-主体对象：恒星级军用飞船，大小由褐矮星至天狼星不等。
+主体对象：<u>恒星级军用飞船</u>，大小由褐矮星至天狼星不等。
 
 (更大的飞船因为内部结构不稳定，难以拥有实战价值)
+
+**引力干扰/压制**(类比现代空战中的电磁干扰，用黑洞军用飞船或是双黑洞引力干扰设施对敌方施加预料之外的引力场，从而影响敌方机动能力和武器精度)
+
+**“制引力权”**(对敌方压倒性的引力干扰能力，造成全范围武器精度/航向影响，从而为己方提供作战优势)
 
 #### 1. **攻击性武器**
 
 1. **恒星军用飞船**(装有[恒星拖船](#恒星拖船)，[尼科尔-戴森光束](#尼科尔-戴森光束)和武器的恒星飞船，其表面覆盖有一层厚厚的恒星物质作为防御手段)
-2. 舰载行星级飞船
-3. 行星级动能武器
-   1. [**环日行星级电磁弹射器**](#大规模恒星际物质运输系统)
-4. 行星级动力制导系统
+2. **舰载行星级飞船**(从恒星军用飞船中借由[环日行星级电磁弹射器](#大规模恒星际物质运输系统)快速发射部署的攻击飞船，可以用于点防御辅助或是恒星表面定点攻击)
+3. **行星级动能武器**(1000千米数量级大小的动能武器)
+   1. [**环日行星级电磁弹射器**](#大规模恒星际物质运输系统)(作为行星级动能武器的主要发射装置)
+4. **行星级动力制导系统**(1000千米数量级大小的导弹，可由[环日行星级电磁弹射器](#大规模恒星际物质运输系统)发射，并用推进器进行轨道修正)
    1. [**“行星重锤”**]("行星重锤")
-5. 行星级反物质武器(完全摧毁恒星当量<半径为2700km的反物质弹)
+5. **行星级反物质武器**(恒星尺度的反物质武器，完全摧毁恒星需要半径小于2700km的反物质弹)
 6. [**尼科尔-戴森光束**](#尼科尔-戴森光束)(作为恒星级军用飞船的主能量武器)
-7. "白矮星炸弹"
+7. [**"白矮星炸弹"**](#白矮星炸弹)(热核恒星系摧毁武器)
 8. **黑洞军用飞船**(携有[黑洞拖船](#黑洞拖船)、[脉冲激光型彭罗斯球体](#脉冲激光型)和[黑洞引力势能戴森光束](#黑洞引力势能戴森光束)的军用黑洞飞船，有着较弱的电磁辐射特征，有一定的电磁隐身能力，可以穿插入敌方舰队进行引力干扰和进行火力支援)
-9. 双黑洞引力干扰设施(一个人造的旋转双黑洞，对星系内天体施加引力震荡，从而达成引力干扰)
-10. 等离子团示踪弹(对黑洞武器的反制手段，可以将其射向黑洞的大致区域，通过等离子团受到潮汐力变形的形态推测出黑洞武器所在位置)
+9. **双黑洞引力干扰设施**(一个人造的旋转双黑洞，对星系内天体施加引力震荡，从而达成引力干扰)
+10. **等离子团示踪弹**(对黑洞武器的反制手段，可以将其射向黑洞的大致区域，通过等离子团受到潮汐力变形的形态推测出黑洞武器所在精确位置)
 
 #### 2. 防御性手段
 
-1. 极其厚的等离子体表面
-2. 冗余戴森区划
-3. 行星级点防御
-   1. [**尼科尔-戴森光束**](#尼科尔-戴森光束)(作为对抗来袭行星级动能武器的能量点防御系统)
+1. **极其厚的等离子体表面**(用于被动抵御动能武器、反物质武器和激光武器)
+2. **冗余戴森区划**(由众多重复的戴森区划避免单个区划损坏造成整艘船崩溃)
+3. **行星级点防御**(通过激光或动能武器逼迫来袭行星级弹头发生转向，避免直接集中行星表面)
+   1. [**尼科尔-戴森光束**](#尼科尔-戴森光束)(可用作能量点防御，大约需要15天气化一颗行星)
 
 ### 4. 星系尺度
 
-主体对象：整个星系/星系级飞船
+主体对象：<u>整个星系/星系级飞船</u>
 
 #### 1. 攻击性武器
 
-1. 舰载恒星级飞船
-   1. "白矮星炸弹"
-2. [尼科尔-戴森光束阵列](#尼科尔-戴森光束)
-3. 星系超大质量黑洞戴森光束
+1. **舰载恒星级飞船**(行星携带的恒星大小的舰载飞船，可以由[环星系电磁天体弹射器](#环星系电磁天体弹射器)发射向敌方星系进行作战)
+2. **尼科尔-戴森光束阵列**(由众多[尼科尔-戴森光束](#尼科尔-戴森光束)组成的能量武器阵列，可协同跨星系尺度进行打击)
+3. **[星系超大质量黑洞戴森光束](#星系超大质量黑洞戴森光束)**(星系战争的主能量武器)
 
 #### 2. 防御性手段
 
