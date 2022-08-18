@@ -4,7 +4,7 @@
 
 这个计划旨在记录高中阶段想到的奇异发明和想法，然而它的内容*似乎*不那么接近生活，并且有极高的理论物理和工程学浓度。
 
-本计划已停止维护，请至[星云计划](https://github.com/AP1028)查看后续进展。
+本计划已停止维护，请至[星云计划](https://github.com/AP1028/ProjectNebula)查看后续进展。
 
 如果你需要使用此项目的原创概念，请标明出处。本项目使用[Creative Commons Zero v1.0 Universal License](https://github.com/AP1028/Ring-of-Stars/blob/main/LICENSE).
 
